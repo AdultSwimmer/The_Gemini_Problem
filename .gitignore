@@ -1,0 +1,27 @@
+﻿# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime
+node_modules/
+.env
+
+# Temp
+*.tmp
+*.temp
+
+# Ignore LFS pointer files if LFS not configured locally
+*.gitattributes.lock
