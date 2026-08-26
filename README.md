@@ -295,3 +295,18 @@ before treating any interpretation as a conclusion.
     ├── chatgpt-google.docx
     └── google-chatgpt.docx
 ```
+
+---
+
+## Repository maintenance (automated updates)
+
+This update adds several non-destructive repository maintenance files and verification aids:
+
+- .gitignore — common ignored files for local development.
+- .gitattributes — marks common binary types (PDF/DOCX/PNG) for Git LFS if enabled locally; this does not migrate existing files.
+- SHA256SUMS — SHA256 checksums for files under evidence/, supporting/, and docs/ to allow integrity verification.
+
+Any filename renames performed to remove potential PII would be listed below; none were necessary in the local run.
+
+- None
+
