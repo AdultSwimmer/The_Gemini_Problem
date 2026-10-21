@@ -310,3 +310,6 @@ Any filename renames performed to remove potential PII would be listed below; no
 
 - None
 
+## Statement
+
+> CHATGPT HAS LITERALLY DONE THIS TO ITSELF.
